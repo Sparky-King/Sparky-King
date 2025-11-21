@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from .... INDIA<br><br>- B<br>- I<br>- I<br>- N<br>- O<br>- Y</p>
+<p align="left">I'm ... from .... INDIA<br><br>- B<br>- I<br>- N<br>- O<br>- Y</p>
 
 ###
 
