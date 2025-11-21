@@ -1,4 +1,4 @@
-![Sparky-KING's card name](https://sparkycardview.vercel.app/api?name=BINO%20SPARKY&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=[https://avatars.githubusercontent.com/u/113657908](https://compatible-violet-xbkcjudkwr.edgeone.app/IMG-20250203-WA0005.jpg)?v=4&backgroundColor=%23ecf0f1&instagram=_b.noh&linkedin=_b.noh&github=Sparky-King&twitter=_b.noh&pattern=leaf&colorPattern=%23eaeaea)
+![Sparky-KING's card name](https://sparkycardview.vercel.app/api?name=BINO%20SPARKY&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://compatible-violet-xbkcjudkwr.edgeone.app/IMG-20250203-WA0005.jpg?v=4&backgroundColor=%23ecf0f1&instagram=_b.noh&linkedin=_b.noh&github=Sparky-King&twitter=_b.noh&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A-S-W-I-N-S-P-A-R-K-Y&label=Profile%20views" alt="A-S-W-I-N-S-P-A-R-K-Y" style="width: 150px;" />
